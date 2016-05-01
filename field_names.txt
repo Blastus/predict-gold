@@ -1,0 +1,189 @@
+AGL Resources Inc
+American Manganese Inc
+Amundi ETF FTSE 100 UCITS ETF
+Amundi ETF Japan Topix EUR Hedged Daily GBP
+Anabatic Technologies
+Anglo American Platinum Ltd
+Apple Inc
+Australian Vanadium Ltd
+Baoshan Iron & Steel Co. Ltd. A
+Barclays Bank PLC iPath S&P 500 VIX Mid-Term Futures ETN
+Barclays Bank PLC iPath S&P 500 VIX Short-Term Futures ETN
+Barclays OFI SteelPath MLP ETN
+Barrick Gold Corp
+Bio Osmo Bhd
+CBOE Google VIX Index
+CBOE-NYMEX Crude Oil (WTI) Volatility Index
+CNNC Hua Yuan Titanium Dioxide Co. Ltd
+Canadian Dollar-Burmese Kyat
+Canadian Dollar-Macanese Pataca
+Canadian Dollar-Malaysian Ringgit
+Canadian Dollar-Mexican Peso
+Chenzhou Jingui Silver Industry Co. Ltd
+China Magnesium Corp. Ltd
+China Molybdenum Co. Ltd. 3993
+China Molybdenum Co. Ltd. A
+China Molybdenum Co. Ltd. D7N
+China Tungsten & Hitech Materials Co. Ltd
+China Vanadium Titano-Magnetite Mining Co. Ltd
+Chongyi Zhangyuan Tungsten Co. Ltd
+Chroma Ate Inc
+ChromaDex Corp
+Chromatic India Ltd 530191
+Chromatic India Ltd. EQCHROMATIC
+Chrometco Ltd
+Cobalt International Energy Inc C1O
+Cobalt International Energy Inc CIE
+Columbia Tax-Exempt Fund;R5
+DAX
+DB Physical Rhodium ETC
+Dalian Daxian Enterprises Holdings Co. Ltd
+Daxin Materials Corp
+Direxion Daily Natural Gas Related Bear 3x Shares
+Dow Jones Australia Total Stock Market Index AUD
+Dow Jones Australia Total Stock Market Total Return Index AUD
+Dow Jones Brazil Total Stock Market Total Return Index USD
+Dow Jones Brookfield Communications Infrastructure Total Return Index USD
+Dow Jones Brookfield Europe Infrastructure Total Return Index USD
+Dow Jones Brookfield Global Infrastructure Composite Total Return Index AUD
+Dow Jones Brookfield Global Infrastructure Composite Yield Total Return Index AUD
+Dow Jones Brookfield Global Infrastructure Total Return Index AUD
+Dow Jones Canada Select Equal Weight Utilities Total Return Index USD
+Dow Jones Canada Total Stock Market Total Return Index USD
+Dow Jones Canada Total Stock Market Total Return Net Index USD
+Dow Jones Chile Total Stock Market Index USD
+Dow Jones Chile Total Stock Market Total Return Index USD
+Dow Jones China Offshore Total Stock Market Index USD
+Dow Jones China Offshore Total Stock Market Total Return Index USD
+Dow Jones Denmark Total Stock Market Total Return Index USD
+Dow Jones Europe Developed Markets Select Real Estate Securities Total Return Gross Index USD
+Dow Jones Finland Total Stock Market Total Return Index USD
+Dow Jones Finland Total Stock Market Total Return Net Index USD
+Dow Jones Industrial Average
+Dow Jones Industrial Average TTM (JPY) Total Return Japanese Yen Hedged Index
+Dow Jones Industrial Average TTM JPY
+Dow Jones Industrial Average TTM Total Return JPY
+Dow Jones Islamic Market China-Hong Kong Titans 30 Total Return Index USD
+Dow Jones Technology Titans 30 Index USD
+ETFS Commodity Securities Ltd. ETFS Zinc EUR
+ETFS Commodity Securities Ltd. ETFS Zinc USD
+ETFS FTSE 100 Leveraged (Daily 2x) GO UCITS ETF
+ETFS Metal Securities Australia Ltd. ETFS Physical Gold
+FTSE 100 Index GBP
+Gold Price 1
+Gold Price 2
+Guangdong Orient Zirconic Ind Sci & Tech Co. Ltd. A
+Gulf Manganese Corp. Ltd
+HCL Technologies Ltd
+Hafslund ASA Series A
+Hafslund ASA Series B
+Hamburger Hafen und Logistik AG
+Hana UBS Ambatovy Nickel Overseas Resources 1
+Hana UBS Ambatovy Nickel Overseas Resources 2
+Hang Seng Bank Ltd
+Hang Seng China H-Financials Index
+Hang Seng Composite Index
+Hang Seng Index
+Hanmi Financial Corp
+Hindustan Copper Ltd
+Hindustan Zinc Ltd. 500188
+Hindustan Zinc Ltd. EQHINDZINC
+Hong Kong 2 Year Government Bond
+Horizons Active Global Fixed Income ETF
+Impala Platinum Holdings Ltd
+Indsil Hydro Power & Manganese Ltd
+Iridium Communications Inc. 6.75% Perp. Pfd. Conv. Series B
+Iridium Communications Inc. 6IC
+Iridium Communications Inc. IRDM
+Iridium Communications Inc. Perp. Pfd. Conv. Series A
+Iridium World Communications Ltd. Cl A
+Ironveld PLC
+Japan Physical Palladium ETF
+Ji Lin Ji En Nickel Industry Co. Ltd. A
+Jiangxi Copper Co. Ltd. A
+Jinduicheng Molybdenum Co. Ltd
+Jumbo CBOE Dow Jones Volatility Index Offer Price
+Koeln-Duesseldorfer Deutsche Rheinschiffahrt AG
+Korea Cast Iron Pipe Industry Co. Ltd
+Korea Zinc Co. Ltd
+Latrobe Magnesium Ltd
+Lyxor ETF DAX
+Magnitogorsk Iron & Steel Works
+Malaysia 10 Year Government Bond
+Maruo Calcium Co. Ltd
+Mercury General Corp MCG
+Mercury General Corp MCY
+Mercury Industries Bhd
+Mercury Laboratories Ltd
+Mercury Systems Inc
+Merdeka Copper Gold
+Microsoft Corp
+Multipolar Technology
+NIKKEI 225 Index
+Nevada Clean Magnesium Inc
+Nickel Asia Corp
+Nikkei 225 Covered Call ETF
+Niocorp Developments Ltd
+Nippon Tungsten Co. Ltd
+Nomura Asset Management Nikkei 225 ETF
+Norilsk Nickel Mining & Metallurgical Co
+North American Palladium Ltd
+Northam Platinum Ltd
+Northern Manganese Ltd
+Nuveen S&P 500 Buy-Write Income Fund
+Nuveen S&P 500 Dynamic Overwrite Fund
+Osaka Titanium Technologies Co. Ltd
+Osmanli Menkul Degerler A.S
+Ossiam FTSE 100 Minimum Variance
+Ostankinsky Meat-Processing Enterprise
+PHLX Gold-Silver Index
+PIMCO Total Return Active ETF
+Pangang Group Vanadium Titanium & Resources Co. Ltd
+Platinum Group PCL
+Primary Gold Ltd
+Randgold Resources Ltd. ADR
+Recon Capital DAX Germany ETF
+Rhea Girisim Sermayesi Yatirim Ortakligi A.S
+Rheinmetall AG (Germany - Frankfurt)
+Rheinmetall AG (Germany - Hamburg)
+Rheinmetall AG (Germany - Munich)
+Rheinmetall AG (Germany - Xetra)
+Rheinmetall AG (Switzerland - SWX)
+Rheon Automatic Machinery Co. Ltd
+Ruth's Hospitality Group Inc. R6R
+Ruth's Hospitality Group Inc. RUTH
+S&P 500 Index
+SLM Corp. CPI-Linked Medium Term Notes Series A 2017
+SPDR S&P-ASX Australian Bond Fund
+STOXX Europe Total Market Growth Small Net Return Index USD
+STOXX Europe Total Market Tobacco Net Return Index USD
+STOXX Nordic Total Market Health Care Index USD
+STOXX Nordic Total Market Health Care Net Return Index USD
+Sandur Manganese & Iron Ores Ltd
+Scandium International Mining Corp SCY
+Scandium International Mining Corp SCYYF
+Shenzhen Silver Basis Technology Co. Ltd. A
+Silver Wheaton Corp
+Sinar Mas Agro Resources & Technology
+Source Physical Markets PLC Source Physical Palladium P-ETC GBP
+Sprott Physical Platinum & Palladium Trust
+Tantalus Rare Earths AG
+The Asia Dow Index USD
+Tianjin Silvery Dragon Prestressed Materials Co. Ltd
+Toho Titanium Co. Ltd
+Tungsten Corp. PLC
+U.S. 30 Year Treasury Bond
+UBS Barclays US Liquid Corporates 1-5 Year UCITS ETF Hedged to GBP
+UBS MSCI USA 100% Hedged to GBP UCITS ETF
+UBS MSCI USA 100% Hedged to GBP UCITS ETF ACC
+Vanadiumcorp Resource Inc
+VelocityShares 3x Inverse Crude ETN linked to the S&P GSCI Crude Oil Index Excess Return
+Windimurra Vanadium Ltd
+Xiamen Tungsten Co. Ltd. A
+Yamato Holdings Co. Ltd
+Young Heung Iron & Steel Co. Ltd
+Yunnan Copper Co. Ltd
+Zhejiang Huayou Cobalt Co. Ltd
+elocityShares 3x Long Crude ETN linked to the S&P GSCI Crude Oil Index Excess Return
+iPath Goldman Sachs Crude Oil Total Return Index ETN
+iShares Nikkei 225 ETF
