@@ -34,6 +34,7 @@ INDEPENDENT_VARIABLES = 'Independent Variables'
 HISTORICAL_START_DATE = datetime.date(2015, 1, 1)
 HISTORICAL_STOP_DATE = datetime.date(2016, 1, 1)
 HISTORICAL_OUTPUT = 'historical_values.csv'
+FIELD_NAMES = 'field_names.txt'
 
 CURRENT_START_DATE = HISTORICAL_STOP_DATE
 CURRENT_STOP_DATE = datetime.date(2016, 4, 1)
@@ -79,6 +80,8 @@ def main():
         writer = csv.DictWriter(file, sorted(next(transposed_table)))
         writer.writeheader()
         writer.writerows(transposed_table)
+    with pathlib.Path(FIELD_NAMES).open('wt') as file:
+        print(*writer.fieldnames, sep='\n', file=file, flush=True)
 
 
 def strip_all(dictionary):
