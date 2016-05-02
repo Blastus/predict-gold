@@ -75,6 +75,7 @@ def main():
                           if valid_date(date)]
             historical_table[name] = final_data
     # write out to a file
+    round_column_values(historical_table, 5)
     transposed_table = pivot_from_columns_to_rows(historical_table)
     with pathlib.Path(HISTORICAL_OUTPUT).open('wt', newline='') as file:
         writer = csv.DictWriter(file, sorted(next(transposed_table),
@@ -138,6 +139,12 @@ def filter_map(function, iterable):
             yield function(item)
         except ValueError:
             pass
+
+
+def round_column_values(table, digits):
+    for column in table.values():
+        for offset, value in enumerate(column):
+            column[offset] = round(value, digits)
 
 
 def pivot_from_columns_to_rows(table):
