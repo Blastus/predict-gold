@@ -77,7 +77,8 @@ def main():
     # write out to a file
     transposed_table = pivot_from_columns_to_rows(historical_table)
     with pathlib.Path(HISTORICAL_OUTPUT).open('wt', newline='') as file:
-        writer = csv.DictWriter(file, sorted(next(transposed_table)))
+        writer = csv.DictWriter(file, sorted(next(transposed_table),
+                                             key=str.casefold))
         writer.writeheader()
         writer.writerows(transposed_table)
     with pathlib.Path(FIELD_NAMES).open('wt') as file:
