@@ -12,13 +12,12 @@ Barclays Bank PLC iPath S&P 500 VIX Short-Term Futures ETN
 Barclays OFI SteelPath MLP ETN
 Barrick Gold Corp
 Bio Osmo Bhd
-CBOE Google VIX Index
-CBOE-NYMEX Crude Oil (WTI) Volatility Index
-CNNC Hua Yuan Titanium Dioxide Co. Ltd
 Canadian Dollar-Burmese Kyat
 Canadian Dollar-Macanese Pataca
 Canadian Dollar-Malaysian Ringgit
 Canadian Dollar-Mexican Peso
+CBOE Google VIX Index
+CBOE-NYMEX Crude Oil (WTI) Volatility Index
 Chenzhou Jingui Silver Industry Co. Ltd
 China Magnesium Corp. Ltd
 China Molybdenum Co. Ltd. 3993
@@ -32,13 +31,14 @@ ChromaDex Corp
 Chromatic India Ltd 530191
 Chromatic India Ltd. EQCHROMATIC
 Chrometco Ltd
+CNNC Hua Yuan Titanium Dioxide Co. Ltd
 Cobalt International Energy Inc C1O
 Cobalt International Energy Inc CIE
 Columbia Tax-Exempt Fund;R5
-DAX
-DB Physical Rhodium ETC
 Dalian Daxian Enterprises Holdings Co. Ltd
+DAX
 Daxin Materials Corp
+DB Physical Rhodium ETC
 Direxion Daily Natural Gas Related Bear 3x Shares
 Dow Jones Australia Total Stock Market Index AUD
 Dow Jones Australia Total Stock Market Total Return Index AUD
@@ -74,7 +74,6 @@ Gold Price 1
 Gold Price 2
 Guangdong Orient Zirconic Ind Sci & Tech Co. Ltd. A
 Gulf Manganese Corp. Ltd
-HCL Technologies Ltd
 Hafslund ASA Series A
 Hafslund ASA Series B
 Hamburger Hafen und Logistik AG
@@ -85,6 +84,7 @@ Hang Seng China H-Financials Index
 Hang Seng Composite Index
 Hang Seng Index
 Hanmi Financial Corp
+HCL Technologies Ltd
 Hindustan Copper Ltd
 Hindustan Zinc Ltd. 500188
 Hindustan Zinc Ltd. EQHINDZINC
@@ -92,12 +92,14 @@ Hong Kong 2 Year Government Bond
 Horizons Active Global Fixed Income ETF
 Impala Platinum Holdings Ltd
 Indsil Hydro Power & Manganese Ltd
+iPath Goldman Sachs Crude Oil Total Return Index ETN
 Iridium Communications Inc. 6.75% Perp. Pfd. Conv. Series B
 Iridium Communications Inc. 6IC
 Iridium Communications Inc. IRDM
 Iridium Communications Inc. Perp. Pfd. Conv. Series A
 Iridium World Communications Ltd. Cl A
 Ironveld PLC
+iShares Nikkei 225 ETF
 Japan Physical Palladium ETF
 Ji Lin Ji En Nickel Industry Co. Ltd. A
 Jiangxi Copper Co. Ltd. A
@@ -119,10 +121,10 @@ Mercury Systems Inc
 Merdeka Copper Gold
 Microsoft Corp
 Multipolar Technology
-NIKKEI 225 Index
 Nevada Clean Magnesium Inc
 Nickel Asia Corp
 Nikkei 225 Covered Call ETF
+NIKKEI 225 Index
 Niocorp Developments Ltd
 Nippon Tungsten Co. Ltd
 Nomura Asset Management Nikkei 225 ETF
@@ -136,9 +138,9 @@ Osaka Titanium Technologies Co. Ltd
 Osmanli Menkul Degerler A.S
 Ossiam FTSE 100 Minimum Variance
 Ostankinsky Meat-Processing Enterprise
+Pangang Group Vanadium Titanium & Resources Co. Ltd
 PHLX Gold-Silver Index
 PIMCO Total Return Active ETF
-Pangang Group Vanadium Titanium & Resources Co. Ltd
 Platinum Group PCL
 Primary Gold Ltd
 Randgold Resources Ltd. ADR
@@ -153,20 +155,20 @@ Rheon Automatic Machinery Co. Ltd
 Ruth's Hospitality Group Inc. R6R
 Ruth's Hospitality Group Inc. RUTH
 S&P 500 Index
-SLM Corp. CPI-Linked Medium Term Notes Series A 2017
-SPDR S&P-ASX Australian Bond Fund
-STOXX Europe Total Market Growth Small Net Return Index USD
-STOXX Europe Total Market Tobacco Net Return Index USD
-STOXX Nordic Total Market Health Care Index USD
-STOXX Nordic Total Market Health Care Net Return Index USD
 Sandur Manganese & Iron Ores Ltd
 Scandium International Mining Corp SCY
 Scandium International Mining Corp SCYYF
 Shenzhen Silver Basis Technology Co. Ltd. A
 Silver Wheaton Corp
 Sinar Mas Agro Resources & Technology
+SLM Corp. CPI-Linked Medium Term Notes Series A 2017
 Source Physical Markets PLC Source Physical Palladium P-ETC GBP
+SPDR S&P-ASX Australian Bond Fund
 Sprott Physical Platinum & Palladium Trust
+STOXX Europe Total Market Growth Small Net Return Index USD
+STOXX Europe Total Market Tobacco Net Return Index USD
+STOXX Nordic Total Market Health Care Index USD
+STOXX Nordic Total Market Health Care Net Return Index USD
 Tantalus Rare Earths AG
 The Asia Dow Index USD
 Tianjin Silvery Dragon Prestressed Materials Co. Ltd
@@ -178,12 +180,10 @@ UBS MSCI USA 100% Hedged to GBP UCITS ETF
 UBS MSCI USA 100% Hedged to GBP UCITS ETF ACC
 Vanadiumcorp Resource Inc
 VelocityShares 3x Inverse Crude ETN linked to the S&P GSCI Crude Oil Index Excess Return
+VelocityShares 3x Long Crude ETN linked to the S&P GSCI Crude Oil Index Excess Return
 Windimurra Vanadium Ltd
 Xiamen Tungsten Co. Ltd. A
 Yamato Holdings Co. Ltd
 Young Heung Iron & Steel Co. Ltd
 Yunnan Copper Co. Ltd
 Zhejiang Huayou Cobalt Co. Ltd
-elocityShares 3x Long Crude ETN linked to the S&P GSCI Crude Oil Index Excess Return
-iPath Goldman Sachs Crude Oil Total Return Index ETN
-iShares Nikkei 225 ETF
